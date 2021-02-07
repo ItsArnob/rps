@@ -1,2 +1,2 @@
 # rps
-just a simple rock paper scissors game
+Just a simple Rock paper scissors game 
